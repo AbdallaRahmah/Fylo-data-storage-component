@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontend mentor](https://www.frontendmentor.io/solutions/css-flexbox-Gxea07gKh)
+- Solution URL: [frontend mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-4Vq4knyt1h)
 - Live Site URL: (https://abdallarahmah.github.io/Fylo-data-storage-component/)
 
 ## My process
@@ -34,7 +34,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- SCSS
 - Flexbox
 - Mobile-first workflow
 
