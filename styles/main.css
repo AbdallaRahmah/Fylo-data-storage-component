@@ -63,7 +63,8 @@ html {
 }
 @media (min-width: 767px) {
   .container .first-box {
-    max-width: 300px;
+    margin-bottom: 1rem;
+    max-width: 325px;
     height: 190px;
   }
 }
@@ -81,7 +82,7 @@ html {
 }
 .container .first-box .con-icons {
   width: 55%;
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -111,10 +112,11 @@ html {
 }
 @media (min-width: 767px) {
   .container .last-box {
-    margin: 0;
     margin-top: 45px;
+    margin-right: 0;
+    margin-bottom: 1rem;
     margin-left: 1.5rem;
-    max-width: 600px;
+    max-width: 575px;
     height: 145px;
   }
 }
@@ -204,7 +206,8 @@ html {
   }
 }
 .container .storage h2 {
-  font-size: 1rem;
+  font-size: 0.8rem;
+  font-weight: normal;
   text-transform: uppercase;
   color: hsl(228, 56%, 26%);
   display: flex;
@@ -215,5 +218,5 @@ html {
   font-size: 2.5rem;
 }
 .container .storage h2 span:last-of-type {
-  margin-right: 1rem;
+  margin-right: 0.5rem;
 }/*# sourceMappingURL=main.css.map */
